@@ -1,0 +1,32 @@
+body {
+  background-color: #AFABAB;
+}
+
+.container {
+  margin: 10px;
+}
+
+.test-Container {
+  display: inline-block;
+}
+
+.test {
+  display: inline;
+}
+
+.test button {
+  width: 200px;
+  border-radius: 18%;
+  border-style: solid;
+  border-color: white;
+  background-color: #D2A3E6;
+  padding: 50px;
+  margin: 10px;
+  color: white;
+  font-size: 17px;
+  outline: none;
+}
+
+.test button:hover {
+  background-color: #A36ABC;
+}
